@@ -1,0 +1,4 @@
+[0507/011512.879:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0507/011512.975:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0507/011512.975:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0507/011512.975:ERROR:exception_snapshot_win.cc(98)] thread ID 15368 not found in process
